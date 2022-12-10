@@ -53,7 +53,7 @@ In addition to hypothesis generation and EDA, my process was broken down into 5 
 
 ### Step 1: Data Cleaning
 
-In order to make Data Cleaning easier, I created a function that presents me with the data to help me look for formmating issues, error in datatypes, missing values, duplicates, and outliers. 
+In order to make Data Cleaning easier, I created a function that presents me with the data to help me look for formating issues, error in datatypes, missing values, duplicates, and outliers. 
 
 This function, along with some others, are stored in a python file called Woodpecker.py, available in the src folder.
 
